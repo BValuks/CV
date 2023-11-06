@@ -6,10 +6,10 @@ A former customer service manager looking for a new opportunity in tech. Through
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A project to improve reliability reliablity and security in a true-to-life AWS cloud deployment. Including legacy system migration | AWS (EC2, IAM, S3, DynamoDB, ELB, Athena, Lambda, API Gateway, CloudFront), Python, Postman |
-| **Task Listing App AWS Deployment** | A web deployment of an existing code base using IaC and CICD pipelines | Terraform, AWS (EC2, IAM, S3, ECR, Elastic Beanstalk, RDS), GitHub Actions, Docker|
-| **Security vulnerabilities project** | A project to discover and rectify security vulnerabilities within an existing code base | OWASP ZAP (DAST), Bandit (SAST), Python (Flask), HTML, SQL (PostgreSQL)|
-| **MakersBnB** | An experimental AirBnB clone made as part of a team utilising agile work practices | Python (Flask), HTML, CSS, SQL (PostgreSQL)|
+|[**Final project**](https://github.com/BValuks/reliability-project)| A project to improve reliability reliablity and security in a true-to-life AWS cloud deployment. Including legacy system migration | AWS (EC2, IAM, S3, DynamoDB, ELB, Athena, Lambda, API Gateway, CloudFront), Python, Postman |
+|[**Task listing app AWS depoloyment**](https://github.com/BValuks/task-listing-aws-deployment)| A web deployment of an existing code base using IaC and CICD pipelines | Terraform, AWS (EC2, IAM, S3, ECR, Elastic Beanstalk, RDS), GitHub Actions, Docker|
+|[ **Security vulnerabilities project** ](https://github.com/BValuks/log-in-page-security-project)| A project to discover and rectify security vulnerabilities within an existing code base | OWASP ZAP (DAST), Bandit (SAST), Python (Flask), HTML, SQL (PostgreSQL)|
+|[ **MakersBnB** ](https://github.com/BValuks/makers-bnb)| An experimental AirBnB clone made as part of a team utilising agile work practices | Python (Flask), HTML, CSS, SQL (PostgreSQL)|
 
 ## Work Experience
 
