@@ -50,7 +50,7 @@ I have been lucky enough throughout my career to work in teams of all sizes, and
 
 This came into play during our Makers Final Project, where I encouraged other quieter members to offer their thoughts and present my own. I also solidified my skills by either providing leadership or encouraging and supporting others who lead, depending on the team's needs.
 
-#### Management skills
+#### Management skills and Leadership
 
 In every role I have had, I have always looked for opportunities for progression and this has lead me to hold a number of managerial positions. This culminated in me taking the role of Duty Manager/Team Leader at The Natural History Museum. As well as leading the Visitor Experience team, as Duty Manager I was required to manage the needs of the museum, ensuring the safety of all the staff and the public whilst the building was open. I needed to be aware of health and safety protocols, including evacuation duties, and I needed to liase with both internal teams across the museum as well as external vendors as needed. One of my biggest professional achievements was managing the museum on the busiest January day on record, when 22,000 people came through our doors.
 
