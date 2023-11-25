@@ -35,6 +35,13 @@ _Audio/Visual Assistant_
 
 - Ensured on-site systems were up-to-date and secure
 
+**The Great North Wood** (Dec. 2015 to Jan. 2018)  
+_Assistant Manager_
+
+- Managing a team in an often high stress environment
+
+- Weekly orders of stock. This also included making good relationships with local suppliers in order to ensure the best deals for the business
+
 ## Skills
 
 #### Teamwork
@@ -43,19 +50,9 @@ I have been lucky enough throughout my career to work in teams of all sizes, and
 
 This came into play during our Makers Final Project, where I encouraged other quieter members to offer their thoughts and present my own. I also solidified my skills by either providing leadership or encouraging and supporting others who lead, depending on the team's needs.
 
+#### Management skills
 
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
+In every role I have had, I have always looked for opportunities for progression and this has lead me to hold a number of managerial positions. This culminated in me taking the role of Duty Manager/Team Leader at The Natural History Museum. As well as leading the Visitor Experience team, as Duty Manager I was required to manage the needs of the museum, ensuring the safety of all the staff and the public whilst the building was open. I needed to be aware of health and safety protocols, including evacuation duties, and I needed to liase with both internal teams across the museum as well as external vendors as needed. One of my biggest professional achievements was managing the museum on the busiest January day on record, when 22,000 people came through our doors.
 
 
 ## Education
