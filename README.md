@@ -2,6 +2,12 @@
 
 A former customer service manager looking for a new opportunity in tech. Throughout my career, I have always fostered a drive to learn new skills and this has led me to find a passion for programming. Having recently graduated from Makers Academy, I am looking for an opportunity to consolidate both my technical skills and the interpersonal skills I have developed over a decade of working in client-facing roles.
 
+## Tech stack
+
+**Languages**: Python, Ruby , SQL, YAML, HTML
+
+**Technologies**: AWS, Kubernetes, Terraform, Jenkins, GitHub Actions, Docker, Git, Flask,  Postman, TablePlus, MongoDB
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -31,12 +37,13 @@ _Audio/Visual Assistant_
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+#### Teamwork
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+I have been lucky enough throughout my career to work in teams of all sizes, and what these experiences have taught me is just what is possible when every member of a team is encouraged to contribute and learn from others. I genuinely enjoy working with others; camaraderie and support are always great motivators for creating high-quality projects. The Makers course led us to work on individual and joint projects, and I was comfortable with either arrangement. One of my strengths is ensuring that everyone has the opportunity to put forward their ideas so that we identify the best solution most effectively.
+
+This came into play during our Makers Final Project, where I encouraged other quieter members to offer their thoughts and present my own. I also solidified my skills by either providing leadership or encouraging and supporting others who lead, depending on the team's needs.
 
 
-Here's an example
 
 #### Communication
 I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
@@ -92,4 +99,4 @@ _Tower Hamlets Youth Volunteer Programme_
 
 ## Hobbies
 
-- A guitarist of 20 years. I play in a band called Bennett Valuks
+- I am a guitarist of 20 years. I play in a band called Bennett Valuks. I am also a big gamer and reader. As you can see, I am a nerd several times over.
